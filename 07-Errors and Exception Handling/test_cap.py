@@ -1,3 +1,7 @@
+"""
+Using the unittest module to test our code
+"""
+
 import unittest
 import cap
 
